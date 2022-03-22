@@ -1,0 +1,1296 @@
+ano,uf,tipo_acidente,quantidade
+2020,MG,Saída de leito carroçável,1839
+2020,PR,Colisão traseira,1414
+2020,PR,Saída de leito carroçável,1399
+2020,SC,Colisão traseira,1368
+2020,MG,Colisão traseira,1279
+2020,SC,Colisão transversal,1171
+2020,SC,Colisão lateral,1046
+2020,SP,Colisão traseira,1006
+2020,SC,Saída de leito carroçável,992
+2020,MG,Tombamento,927
+2020,RS,Saída de leito carroçável,920
+2020,PR,Colisão transversal,807
+2020,RS,Colisão transversal,806
+2020,MG,Colisão lateral,787
+2020,GO,Saída de leito carroçável,784
+2020,RJ,Colisão traseira,784
+2020,PR,Colisão lateral,780
+2020,MG,Colisão com objeto estático,740
+2020,MG,Colisão transversal,690
+2020,GO,Colisão traseira,640
+2020,MG,Colisão frontal,626
+2020,SC,Tombamento,618
+2020,RS,Colisão traseira,594
+2020,PR,Colisão com objeto estático,592
+2020,SC,Colisão com objeto estático,590
+2020,MT,Saída de leito carroçável,548
+2020,SP,Colisão lateral,544
+2020,SP,Colisão com objeto estático,537
+2020,BA,Saída de leito carroçável,531
+2020,RJ,Colisão com objeto estático,520
+2020,BA,Colisão traseira,519
+2020,PR,Tombamento,517
+2020,SC,Colisão frontal,516
+2020,PE,Colisão traseira,502
+2020,SP,Tombamento,495
+2020,RJ,Colisão lateral,495
+2020,PR,Queda de ocupante de veículo,460
+2020,RS,Colisão lateral,458
+2020,ES,Colisão transversal,441
+2020,BA,Colisão frontal,437
+2020,BA,Colisão transversal,430
+2020,RJ,Saída de leito carroçável,410
+2020,SP,Saída de leito carroçável,410
+2020,ES,Colisão traseira,408
+2020,PR,Colisão frontal,403
+2020,RJ,Colisão transversal,386
+2020,BA,Colisão lateral,380
+2020,RJ,Tombamento,372
+2020,MS,Saída de leito carroçável,369
+2020,PE,Colisão lateral,351
+2020,MG,Atropelamento de Pedestre,343
+2020,RN,Colisão traseira,338
+2020,ES,Colisão lateral,338
+2020,GO,Colisão lateral,335
+2020,PE,Saída de leito carroçável,333
+2020,MG,Queda de ocupante de veículo,333
+2020,PE,Colisão transversal,312
+2020,RO,Colisão transversal,310
+2020,BA,Tombamento,309
+2020,PR,Atropelamento de Pedestre,304
+2020,DF,Colisão traseira,303
+2020,MT,Colisão traseira,301
+2020,CE,Colisão traseira,298
+2020,RS,Tombamento,295
+2020,RS,Colisão frontal,290
+2020,MG,Capotamento,289
+2020,RJ,Queda de ocupante de veículo,283
+2020,RS,Colisão com objeto estático,282
+2020,ES,Tombamento,281
+2020,GO,Colisão transversal,277
+2020,RO,Colisão traseira,271
+2020,PB,Colisão traseira,270
+2020,MT,Colisão transversal,255
+2020,CE,Colisão transversal,255
+2020,MT,Colisão lateral,254
+2020,RJ,Atropelamento de Pedestre,253
+2020,RJ,Colisão frontal,242
+2020,SP,Atropelamento de Pedestre,221
+2020,MA,Colisão traseira,217
+2020,SC,Queda de ocupante de veículo,215
+2020,SC,Atropelamento de Pedestre,215
+2020,PE,Colisão frontal,214
+2020,GO,Tombamento,212
+2020,ES,Saída de leito carroçável,212
+2020,PB,Saída de leito carroçável,210
+2020,MT,Tombamento,210
+2020,PR,Capotamento,209
+2020,GO,Colisão com objeto estático,205
+2020,CE,Colisão lateral,204
+2020,ES,Colisão frontal,204
+2020,PA,Colisão transversal,202
+2020,RN,Colisão transversal,200
+2020,MS,Colisão traseira,199
+2020,PE,Atropelamento de Pedestre,196
+2020,PI,Colisão transversal,195
+2020,MA,Colisão transversal,195
+2020,RO,Colisão lateral,192
+2020,MS,Tombamento,190
+2020,DF,Saída de leito carroçável,186
+2020,PI,Colisão traseira,185
+2020,PI,Saída de leito carroçável,185
+2020,ES,Queda de ocupante de veículo,180
+2020,RO,Saída de leito carroçável,179
+2020,SC,Capotamento,179
+2020,MS,Colisão transversal,177
+2020,MG,Incêndio,177
+2020,RJ,Capotamento,176
+2020,PE,Colisão com objeto estático,174
+2020,DF,Colisão lateral,174
+2020,SP,Colisão transversal,174
+2020,ES,Colisão com objeto estático,173
+2020,MA,Colisão frontal,171
+2020,CE,Saída de leito carroçável,170
+2020,MT,Colisão frontal,170
+2020,SP,Queda de ocupante de veículo,169
+2020,RN,Colisão lateral,168
+2020,GO,Colisão frontal,166
+2020,PA,Colisão traseira,163
+2020,BA,Atropelamento de Pedestre,159
+2020,GO,Queda de ocupante de veículo,155
+2020,BA,Queda de ocupante de veículo,154
+2020,PB,Tombamento,152
+2020,PB,Colisão com objeto estático,152
+2020,PB,Colisão transversal,152
+2020,GO,Atropelamento de Pedestre,152
+2020,RS,Atropelamento de Pedestre,144
+2020,BA,Capotamento,143
+2020,RO,Tombamento,143
+2020,PI,Colisão lateral,137
+2020,MS,Colisão lateral,136
+2020,MG,Atropelamento de Animal,135
+2020,MA,Saída de leito carroçável,135
+2020,ES,Atropelamento de Pedestre,133
+2020,BA,Colisão com objeto estático,130
+2020,MA,Colisão lateral,129
+2020,PB,Colisão lateral,126
+2020,SP,Capotamento,124
+2020,AL,Saída de leito carroçável,117
+2020,GO,Capotamento,117
+2020,MT,Queda de ocupante de veículo,114
+2020,TO,Saída de leito carroçável,114
+2020,PA,Colisão lateral,114
+2020,PI,Tombamento,112
+2020,PA,Saída de leito carroçável,111
+2020,PA,Colisão frontal,110
+2020,PI,Colisão frontal,108
+2020,SP,Incêndio,108
+2020,CE,Colisão frontal,107
+2020,SC,Engavetamento,106
+2020,PR,Incêndio,106
+2020,RJ,Incêndio,106
+2020,RN,Colisão com objeto estático,105
+2020,MS,Colisão frontal,103
+2020,CE,Tombamento,102
+2020,PE,Tombamento,102
+2020,CE,Atropelamento de Pedestre,101
+2020,MG,Engavetamento,101
+2020,MS,Colisão com objeto estático,96
+2020,SE,Colisão traseira,96
+2020,CE,Colisão com objeto estático,96
+2020,SC,Incêndio,95
+2020,SP,Engavetamento,95
+2020,BA,Incêndio,95
+2020,RS,Atropelamento de Animal,92
+2020,PE,Capotamento,92
+2020,MS,Atropelamento de Animal,91
+2020,DF,Colisão transversal,91
+2020,PE,Atropelamento de Animal,90
+2020,RO,Queda de ocupante de veículo,90
+2020,RN,Queda de ocupante de veículo,88
+2020,RN,Colisão frontal,87
+2020,RJ,Engavetamento,87
+2020,SE,Saída de leito carroçável,87
+2020,RN,Saída de leito carroçável,87
+2020,PA,Tombamento,86
+2020,RO,Colisão frontal,81
+2020,CE,Queda de ocupante de veículo,80
+2020,PB,Colisão frontal,79
+2020,RO,Colisão com objeto estático,78
+2020,SE,Colisão transversal,77
+2020,BA,Atropelamento de Animal,77
+2020,RN,Tombamento,76
+2020,PI,Colisão com objeto estático,76
+2020,TO,Colisão frontal,76
+2020,TO,Tombamento,75
+2020,TO,Colisão traseira,75
+2020,PE,Queda de ocupante de veículo,75
+2020,RS,Queda de ocupante de veículo,75
+2020,TO,Colisão lateral,74
+2020,MA,Tombamento,73
+2020,PR,Engavetamento,73
+2020,MT,Capotamento,72
+2020,SP,Colisão frontal,70
+2020,MT,Colisão com objeto estático,70
+2020,AL,Colisão traseira,68
+2020,AL,Colisão transversal,68
+2020,MT,Incêndio,68
+2020,PB,Queda de ocupante de veículo,67
+2020,RJ,Atropelamento de Animal,67
+2020,DF,Atropelamento de Pedestre,66
+2020,RN,Atropelamento de Pedestre,66
+2020,RS,Incêndio,65
+2020,GO,Incêndio,65
+2020,PB,Atropelamento de Pedestre,64
+2020,ES,Capotamento,64
+2020,AL,Colisão lateral,61
+2020,RS,Engavetamento,61
+2020,RS,Capotamento,61
+2020,AL,Colisão frontal,60
+2020,RO,Atropelamento de Pedestre,59
+2020,AL,Colisão com objeto estático,59
+2020,MT,Atropelamento de Pedestre,57
+2020,TO,Colisão transversal,57
+2020,RR,Colisão traseira,56
+2020,CE,Atropelamento de Animal,56
+2020,SE,Tombamento,56
+2020,AC,Saída de leito carroçável,56
+2020,BA,Engavetamento,55
+2020,SE,Colisão lateral,55
+2020,PI,Atropelamento de Pedestre,54
+2020,PI,Atropelamento de Animal,54
+2020,SC,Atropelamento de Animal,54
+2020,AL,Tombamento,53
+2020,DF,Queda de ocupante de veículo,52
+2020,AC,Colisão traseira,51
+2020,MS,Incêndio,49
+2020,SE,Colisão frontal,48
+2020,GO,Atropelamento de Animal,47
+2020,PE,Incêndio,46
+2020,PR,Atropelamento de Animal,46
+2020,RN,Atropelamento de Animal,46
+2020,RR,Saída de leito carroçável,45
+2020,AC,Colisão lateral,45
+2020,SE,Colisão com objeto estático,43
+2020,MA,Colisão com objeto estático,43
+2020,MA,Atropelamento de Pedestre,43
+2020,DF,Capotamento,41
+2020,PB,Engavetamento,41
+2020,PA,Atropelamento de Pedestre,41
+2020,DF,Tombamento,40
+2020,MS,Atropelamento de Pedestre,40
+2020,PB,Atropelamento de Animal,38
+2020,AM,Saída de leito carroçável,38
+2020,SE,Atropelamento de Pedestre,37
+2020,PA,Colisão com objeto estático,37
+2020,RN,Capotamento,36
+2020,AL,Atropelamento de Animal,35
+2020,MG,Colisão com objeto em movimento,35
+2020,DF,Colisão com objeto estático,35
+2020,PE,Engavetamento,35
+2020,MG,Derramamento de carga,35
+2020,AP,Colisão traseira,35
+2020,AC,Colisão transversal,34
+2020,GO,Engavetamento,33
+2020,AC,Tombamento,33
+2020,ES,Atropelamento de Animal,32
+2020,AL,Queda de ocupante de veículo,32
+2020,SP,Atropelamento de Animal,32
+2020,MG,Danos eventuais,32
+2020,MT,Atropelamento de Animal,31
+2020,AL,Atropelamento de Pedestre,31
+2020,MA,Queda de ocupante de veículo,31
+2020,RR,Colisão lateral,30
+2020,PR,Colisão com objeto em movimento,30
+2020,MA,Atropelamento de Animal,30
+2020,RO,Atropelamento de Animal,29
+2020,MS,Capotamento,29
+2020,MA,Capotamento,28
+2020,CE,Engavetamento,28
+2020,PI,Incêndio,27
+2020,SE,Queda de ocupante de veículo,27
+2020,RR,Colisão transversal,27
+2020,CE,Capotamento,26
+2020,SP,Colisão com objeto em movimento,25
+2020,PR,Derramamento de carga,25
+2020,MT,Engavetamento,25
+2020,PB,Capotamento,25
+2020,TO,Colisão com objeto estático,24
+2020,MA,Engavetamento,24
+2020,TO,Incêndio,24
+2020,AP,Colisão lateral,23
+2020,PI,Capotamento,23
+2020,PA,Queda de ocupante de veículo,23
+2020,AP,Saída de leito carroçável,23
+2020,ES,Engavetamento,22
+2020,SC,Colisão com objeto em movimento,22
+2020,CE,Incêndio,22
+2020,DF,Engavetamento,21
+2020,MS,Queda de ocupante de veículo,21
+2020,MA,Incêndio,21
+2020,AL,Capotamento,20
+2020,RJ,Derramamento de carga,20
+2020,RJ,Colisão com objeto em movimento,20
+2020,PI,Queda de ocupante de veículo,20
+2020,TO,Atropelamento de Pedestre,19
+2020,AM,Colisão traseira,19
+2020,SP,Danos eventuais,19
+2020,MS,Engavetamento,19
+2020,RN,Incêndio,18
+2020,TO,Capotamento,18
+2020,PB,Incêndio,18
+2020,SE,Capotamento,18
+2020,PR,Danos eventuais,18
+2020,RR,Colisão frontal,18
+2020,AP,Colisão transversal,18
+2020,RO,Engavetamento,18
+2020,TO,Queda de ocupante de veículo,17
+2020,BA,Colisão com objeto em movimento,17
+2020,GO,Danos eventuais,17
+2020,PA,Capotamento,17
+2020,PA,Engavetamento,17
+2020,ES,Incêndio,16
+2020,PE,Colisão com objeto em movimento,16
+2020,GO,Colisão com objeto em movimento,16
+2020,AC,Queda de ocupante de veículo,16
+2020,PA,Atropelamento de Animal,16
+2020,RO,Capotamento,16
+2020,AC,Atropelamento de Pedestre,15
+2020,SC,Derramamento de carga,14
+2020,PE,Danos eventuais,14
+2020,SC,Danos eventuais,14
+2020,DF,Colisão frontal,14
+2020,RR,Queda de ocupante de veículo,14
+2020,RS,Derramamento de carga,14
+2020,RR,Atropelamento de Pedestre,13
+2020,SP,Derramamento de carga,13
+2020,AC,Atropelamento de Animal,13
+2020,PA,Danos eventuais,13
+2020,ES,Colisão com objeto em movimento,13
+2020,AM,Tombamento,12
+2020,SE,Atropelamento de Animal,12
+2020,RJ,Danos eventuais,12
+2020,RO,Incêndio,12
+2020,AL,Incêndio,11
+2020,AP,Colisão frontal,11
+2020,RR,Tombamento,11
+2020,AM,Colisão transversal,11
+2020,RS,Danos eventuais,11
+2020,CE,Danos eventuais,11
+2020,AC,Colisão com objeto estático,11
+2020,BA,Derramamento de carga,10
+2020,AM,Atropelamento de Animal,10
+2020,AP,Tombamento,10
+2020,AP,Capotamento,10
+2020,RR,Colisão com objeto estático,10
+2020,AC,Capotamento,10
+2020,RN,Engavetamento,10
+2020,PI,Danos eventuais,10
+2020,AC,Colisão frontal,10
+2020,RR,Capotamento,9
+2020,AM,Colisão frontal,9
+2020,ES,Derramamento de carga,9
+2020,PI,Engavetamento,9
+2020,MT,Colisão com objeto em movimento,8
+2020,RS,Colisão com objeto em movimento,8
+2020,MS,Colisão com objeto em movimento,8
+2020,MS,Danos eventuais,8
+2020,SE,Incêndio,8
+2020,CE,Derramamento de carga,8
+2020,AM,Atropelamento de Pedestre,8
+2020,RR,Atropelamento de Animal,8
+2020,PI,Colisão com objeto em movimento,7
+2020,AM,Colisão lateral,7
+2020,PE,Derramamento de carga,7
+2020,MT,Danos eventuais,6
+2020,AM,Capotamento,6
+2020,GO,Derramamento de carga,6
+2020,AM,Colisão com objeto estático,6
+2020,BA,Danos eventuais,6
+2020,PA,Incêndio,6
+2020,AL,Derramamento de carga,6
+2020,MT,Derramamento de carga,6
+2020,DF,Atropelamento de Animal,6
+2020,TO,Atropelamento de Animal,6
+2020,TO,Engavetamento,5
+2020,ES,Danos eventuais,5
+2020,RN,Derramamento de carga,5
+2020,AP,Colisão com objeto estático,5
+2020,TO,Danos eventuais,5
+2020,TO,Derramamento de carga,5
+2020,DF,Incêndio,5
+2020,MS,Derramamento de carga,5
+2020,MG,Colisão com objeto,4
+2020,MA,Danos eventuais,4
+2020,AP,Danos eventuais,4
+2020,PA,Colisão com objeto em movimento,4
+2020,RO,Danos eventuais,4
+2020,RN,Colisão com objeto em movimento,4
+2020,MA,Colisão com objeto em movimento,4
+2020,AP,Atropelamento de Pedestre,4
+2020,AC,Danos eventuais,4
+2020,AM,Queda de ocupante de veículo,4
+2020,CE,Colisão com objeto em movimento,4
+2020,SE,Engavetamento,4
+2020,SE,Colisão com objeto em movimento,4
+2020,DF,Derramamento de carga,3
+2020,AP,Atropelamento de Animal,3
+2020,PR,Colisão lateral mesmo sentido,3
+2020,PR,Colisão com objeto,3
+2020,SC,Colisão com objeto,3
+2020,AL,Colisão com objeto em movimento,3
+2020,ES,Colisão lateral mesmo sentido,3
+2020,AP,Queda de ocupante de veículo,3
+2020,MA,Derramamento de carga,3
+2020,PB,Danos eventuais,3
+2020,RR,Incêndio,3
+2020,RR,Engavetamento,3
+2020,BA,Colisão lateral sentido oposto,3
+2020,AM,Incêndio,2
+2020,MG,Colisão lateral mesmo sentido,2
+2020,SC,Colisão lateral mesmo sentido,2
+2020,RR,Danos eventuais,2
+2020,AP,Engavetamento,2
+2020,AP,Incêndio,2
+2020,CE,Colisão com objeto,2
+2020,SE,Danos eventuais,2
+2020,DF,Danos eventuais,2
+2020,MA,Colisão com objeto,2
+2020,AM,Engavetamento,2
+2020,AM,Danos eventuais,2
+2020,PB,Colisão com objeto em movimento,2
+2020,PB,Derramamento de carga,2
+2020,RO,Derramamento de carga,2
+2020,AC,Incêndio,2
+2020,AL,Danos eventuais,2
+2020,AL,Engavetamento,2
+2020,RN,Danos eventuais,2
+2020,SE,Derramamento de carga,1
+2020,AP,Colisão com objeto,1
+2020,MA,Colisão lateral sentido oposto,1
+2020,AM,Colisão lateral sentido oposto,1
+2020,PA,Derramamento de carga,1
+2020,SP,Colisão com objeto,1
+2020,AM,Eventos atípicos,1
+2020,AP,Colisão com objeto em movimento,1
+2020,RR,Colisão com objeto em movimento,1
+2020,RO,Colisão com objeto em movimento,1
+2020,DF,Colisão com objeto em movimento,1
+2020,PI,Derramamento de carga,1
+2020,RJ,Colisão lateral sentido oposto,1
+2020,PE,Colisão com objeto,1
+2020,TO,Colisão com objeto em movimento,1
+2020,RN,Colisão com objeto,1
+2020,RJ,Colisão lateral mesmo sentido,1
+2020,RJ,Colisão com objeto,1
+2020,PR,Colisão lateral sentido oposto,1
+2020,BA,Colisão com objeto,1
+2020,GO,Colisão com objeto,1
+2020,CE,Eventos atípicos,1
+2020,RO,Colisão com objeto,1
+2020,PA,Colisão com objeto,1
+2020,PA,Colisão lateral sentido oposto,1
+2019,MG,Saída de leito carroçável,1837
+2019,SC,Colisão traseira,1720
+2019,PR,Colisão traseira,1619
+2019,SC,Colisão transversal,1513
+2019,MG,Colisão traseira,1468
+2019,PR,Saída de leito carroçável,1323
+2019,SP,Colisão traseira,1229
+2019,SC,Colisão lateral,1196
+2019,SC,Saída de leito carroçável,1118
+2019,PR,Colisão transversal,985
+2019,RS,Saída de leito carroçável,981
+2019,MG,Tombamento,915
+2019,PR,Colisão lateral,901
+2019,RJ,Colisão traseira,872
+2019,RS,Colisão transversal,861
+2019,MG,Colisão lateral,859
+2019,MG,Colisão transversal,791
+2019,GO,Saída de leito carroçável,756
+2019,RS,Colisão traseira,739
+2019,GO,Colisão traseira,658
+2019,SC,Tombamento,646
+2019,MG,Colisão com objeto estático,636
+2019,SP,Colisão lateral,617
+2019,SC,Colisão com objeto estático,606
+2019,RJ,Colisão lateral,602
+2019,PE,Colisão traseira,592
+2019,SC,Colisão frontal,584
+2019,MG,Colisão frontal,583
+2019,BA,Colisão traseira,555
+2019,ES,Colisão traseira,538
+2019,PR,Queda de ocupante de veículo,534
+2019,SP,Colisão com objeto estático,533
+2019,MT,Saída de leito carroçável,518
+2019,RJ,Colisão com objeto estático,514
+2019,ES,Colisão transversal,504
+2019,SP,Tombamento,488
+2019,BA,Saída de leito carroçável,485
+2019,RS,Colisão lateral,480
+2019,BA,Colisão transversal,467
+2019,PR,Colisão com objeto estático,466
+2019,ES,Colisão lateral,440
+2019,PR,Colisão frontal,434
+2019,PR,Tombamento,433
+2019,RJ,Colisão transversal,420
+2019,BA,Colisão frontal,418
+2019,RJ,Saída de leito carroçável,412
+2019,PR,Atropelamento de Pedestre,406
+2019,BA,Colisão lateral,398
+2019,PE,Colisão lateral,392
+2019,MG,Capotamento,386
+2019,GO,Colisão lateral,382
+2019,MG,Queda de ocupante de veículo,377
+2019,MG,Atropelamento de Pedestre,370
+2019,MS,Saída de leito carroçável,369
+2019,PB,Colisão traseira,365
+2019,PE,Colisão transversal,363
+2019,RJ,Tombamento,363
+2019,RS,Colisão frontal,362
+2019,SP,Saída de leito carroçável,337
+2019,RO,Colisão transversal,335
+2019,RN,Colisão traseira,334
+2019,CE,Colisão traseira,330
+2019,DF,Colisão traseira,329
+2019,RJ,Queda de ocupante de veículo,327
+2019,RJ,Atropelamento de Pedestre,317
+2019,GO,Colisão transversal,309
+2019,MT,Colisão traseira,304
+2019,PE,Saída de leito carroçável,300
+2019,RO,Colisão traseira,298
+2019,RS,Tombamento,296
+2019,SC,Atropelamento de Pedestre,275
+2019,BA,Tombamento,275
+2019,RS,Colisão com objeto estático,275
+2019,SC,Queda de ocupante de veículo,269
+2019,CE,Colisão transversal,269
+2019,ES,Tombamento,259
+2019,PI,Colisão traseira,252
+2019,CE,Colisão lateral,252
+2019,MT,Colisão lateral,252
+2019,RJ,Colisão frontal,249
+2019,SP,Queda de ocupante de veículo,249
+2019,RN,Colisão transversal,249
+2019,PB,Saída de leito carroçável,240
+2019,MT,Colisão transversal,240
+2019,PR,Capotamento,238
+2019,RN,Colisão lateral,234
+2019,PI,Colisão transversal,224
+2019,SC,Capotamento,222
+2019,RO,Colisão lateral,214
+2019,PE,Atropelamento de Pedestre,214
+2019,SP,Colisão transversal,209
+2019,MS,Colisão traseira,209
+2019,GO,Queda de ocupante de veículo,206
+2019,SP,Atropelamento de Pedestre,206
+2019,RS,Atropelamento de Pedestre,203
+2019,RJ,Capotamento,203
+2019,RO,Saída de leito carroçável,201
+2019,ES,Queda de ocupante de veículo,197
+2019,GO,Tombamento,195
+2019,ES,Saída de leito carroçável,192
+2019,DF,Colisão lateral,191
+2019,PE,Colisão frontal,190
+2019,MA,Colisão traseira,189
+2019,BA,Atropelamento de Pedestre,182
+2019,MA,Colisão transversal,180
+2019,GO,Atropelamento de Pedestre,177
+2019,DF,Saída de leito carroçável,175
+2019,MG,Incêndio,174
+2019,ES,Atropelamento de Pedestre,174
+2019,BA,Queda de ocupante de veículo,173
+2019,GO,Colisão com objeto estático,173
+2019,PB,Colisão transversal,173
+2019,MT,Colisão frontal,172
+2019,SP,Capotamento,172
+2019,ES,Colisão frontal,172
+2019,PI,Colisão lateral,168
+2019,PB,Colisão lateral,164
+2019,PI,Saída de leito carroçável,162
+2019,MT,Tombamento,161
+2019,GO,Colisão frontal,159
+2019,BA,Capotamento,157
+2019,ES,Colisão com objeto estático,154
+2019,PA,Colisão traseira,154
+2019,PA,Colisão transversal,153
+2019,MS,Tombamento,152
+2019,MA,Colisão frontal,151
+2019,CE,Saída de leito carroçável,150
+2019,MS,Colisão transversal,149
+2019,PB,Colisão com objeto estático,149
+2019,PE,Colisão com objeto estático,144
+2019,CE,Tombamento,138
+2019,GO,Capotamento,135
+2019,MA,Saída de leito carroçável,134
+2019,MA,Colisão lateral,132
+2019,MG,Atropelamento de Animal,131
+2019,MT,Queda de ocupante de veículo,129
+2019,PE,Tombamento,126
+2019,RJ,Incêndio,123
+2019,CE,Atropelamento de Pedestre,120
+2019,PE,Capotamento,118
+2019,PR,Engavetamento,115
+2019,PI,Tombamento,113
+2019,PI,Colisão frontal,113
+2019,SC,Engavetamento,109
+2019,PA,Saída de leito carroçável,109
+2019,MS,Colisão frontal,106
+2019,CE,Colisão frontal,104
+2019,SE,Colisão traseira,103
+2019,PR,Incêndio,103
+2019,PA,Colisão lateral,102
+2019,BA,Atropelamento de Animal,102
+2019,TO,Saída de leito carroçável,102
+2019,AL,Saída de leito carroçável,101
+2019,MS,Colisão lateral,100
+2019,CE,Colisão com objeto estático,99
+2019,MG,Engavetamento,99
+2019,SP,Engavetamento,98
+2019,RN,Colisão frontal,92
+2019,RN,Atropelamento de Pedestre,92
+2019,RS,Atropelamento de Animal,91
+2019,PE,Atropelamento de Animal,91
+2019,RO,Queda de ocupante de veículo,90
+2019,BA,Colisão com objeto estático,89
+2019,PB,Tombamento,88
+2019,SP,Incêndio,88
+2019,AL,Colisão transversal,88
+2019,PE,Queda de ocupante de veículo,88
+2019,DF,Colisão transversal,87
+2019,MT,Capotamento,86
+2019,PB,Atropelamento de Pedestre,85
+2019,RO,Tombamento,84
+2019,RN,Saída de leito carroçável,84
+2019,CE,Queda de ocupante de veículo,83
+2019,RN,Queda de ocupante de veículo,82
+2019,RJ,Engavetamento,82
+2019,RS,Capotamento,81
+2019,PI,Colisão com objeto estático,81
+2019,RO,Colisão frontal,80
+2019,RS,Incêndio,80
+2019,PA,Colisão frontal,80
+2019,SP,Colisão frontal,80
+2019,SE,Colisão transversal,80
+2019,MS,Colisão com objeto estático,79
+2019,BA,Incêndio,79
+2019,PR,Atropelamento de Animal,79
+2019,SC,Incêndio,76
+2019,RO,Atropelamento de Pedestre,74
+2019,SE,Saída de leito carroçável,73
+2019,GO,Incêndio,73
+2019,AL,Colisão traseira,73
+2019,RS,Queda de ocupante de veículo,71
+2019,TO,Colisão traseira,70
+2019,MT,Colisão com objeto estático,68
+2019,PB,Queda de ocupante de veículo,67
+2019,MT,Atropelamento de Pedestre,67
+2019,PI,Atropelamento de Animal,66
+2019,RN,Tombamento,65
+2019,MS,Atropelamento de Animal,65
+2019,DF,Atropelamento de Pedestre,65
+2019,RO,Colisão com objeto estático,64
+2019,ES,Capotamento,63
+2019,MA,Tombamento,63
+2019,RN,Atropelamento de Animal,61
+2019,TO,Tombamento,61
+2019,SE,Colisão lateral,59
+2019,RJ,Atropelamento de Animal,59
+2019,BA,Engavetamento,59
+2019,MS,Queda de ocupante de veículo,59
+2019,TO,Colisão transversal,59
+2019,PB,Atropelamento de Animal,58
+2019,PB,Colisão frontal,58
+2019,TO,Colisão lateral,58
+2019,AL,Tombamento,58
+2019,RN,Colisão com objeto estático,57
+2019,DF,Colisão com objeto estático,57
+2019,PB,Engavetamento,57
+2019,PI,Atropelamento de Pedestre,57
+2019,PA,Tombamento,56
+2019,MS,Atropelamento de Pedestre,55
+2019,TO,Colisão frontal,55
+2019,RR,Saída de leito carroçável,53
+2019,CE,Atropelamento de Animal,53
+2019,MT,Incêndio,52
+2019,SE,Colisão com objeto estático,52
+2019,SE,Tombamento,51
+2019,DF,Queda de ocupante de veículo,51
+2019,AL,Colisão lateral,51
+2019,DF,Capotamento,49
+2019,AL,Capotamento,49
+2019,AL,Atropelamento de Pedestre,49
+2019,GO,Engavetamento,48
+2019,MT,Atropelamento de Animal,48
+2019,PE,Incêndio,47
+2019,MA,Atropelamento de Pedestre,46
+2019,AL,Colisão frontal,46
+2019,SE,Colisão frontal,45
+2019,GO,Atropelamento de Animal,44
+2019,MA,Colisão com objeto estático,44
+2019,AC,Colisão traseira,42
+2019,ES,Atropelamento de Animal,42
+2019,RR,Colisão traseira,41
+2019,AC,Saída de leito carroçável,41
+2019,PA,Atropelamento de Pedestre,40
+2019,RN,Capotamento,40
+2019,MA,Queda de ocupante de veículo,39
+2019,SE,Atropelamento de Animal,38
+2019,SC,Atropelamento de Animal,38
+2019,ES,Engavetamento,38
+2019,SE,Atropelamento de Pedestre,38
+2019,AL,Atropelamento de Animal,38
+2019,TO,Queda de ocupante de veículo,37
+2019,RR,Colisão lateral,37
+2019,PI,Capotamento,36
+2019,PI,Queda de ocupante de veículo,36
+2019,MG,Colisão com objeto em movimento,36
+2019,PE,Engavetamento,36
+2019,RS,Engavetamento,36
+2019,AC,Colisão lateral,35
+2019,AL,Colisão com objeto estático,35
+2019,SE,Queda de ocupante de veículo,35
+2019,CE,Capotamento,35
+2019,ES,Incêndio,35
+2019,AC,Queda de ocupante de veículo,33
+2019,AM,Saída de leito carroçável,33
+2019,PB,Capotamento,33
+2019,SP,Atropelamento de Animal,32
+2019,MS,Incêndio,32
+2019,PR,Colisão com objeto em movimento,31
+2019,DF,Tombamento,31
+2019,RJ,Colisão com objeto em movimento,31
+2019,MS,Capotamento,31
+2019,MG,Derramamento de carga,30
+2019,MA,Capotamento,30
+2019,RO,Capotamento,29
+2019,AC,Colisão transversal,29
+2019,MA,Atropelamento de Animal,28
+2019,PA,Queda de ocupante de veículo,28
+2019,MG,Danos eventuais,28
+2019,AL,Queda de ocupante de veículo,27
+2019,RR,Colisão transversal,26
+2019,RO,Atropelamento de Animal,26
+2019,SC,Colisão com objeto em movimento,26
+2019,PR,Derramamento de carga,26
+2019,SP,Colisão com objeto em movimento,25
+2019,AP,Colisão traseira,25
+2019,PA,Capotamento,25
+2019,PA,Colisão com objeto estático,25
+2019,CE,Incêndio,24
+2019,RN,Engavetamento,24
+2019,CE,Engavetamento,23
+2019,DF,Colisão frontal,23
+2019,GO,Colisão com objeto em movimento,21
+2019,RS,Colisão com objeto em movimento,19
+2019,RR,Atropelamento de Pedestre,19
+2019,PB,Incêndio,19
+2019,AP,Saída de leito carroçável,18
+2019,PA,Atropelamento de Animal,18
+2019,SE,Capotamento,18
+2019,BA,Colisão com objeto em movimento,18
+2019,AP,Colisão lateral,18
+2019,MA,Incêndio,18
+2019,SC,Danos eventuais,17
+2019,RJ,Derramamento de carga,17
+2019,RR,Colisão frontal,17
+2019,TO,Colisão com objeto estático,16
+2019,PE,Colisão com objeto em movimento,16
+2019,MT,Engavetamento,16
+2019,TO,Incêndio,16
+2019,PI,Incêndio,16
+2019,TO,Atropelamento de Pedestre,15
+2019,AC,Tombamento,15
+2019,PR,Danos eventuais,15
+2019,AP,Atropelamento de Pedestre,15
+2019,RJ,Danos eventuais,15
+2019,RO,Incêndio,15
+2019,ES,Colisão com objeto em movimento,15
+2019,MT,Colisão com objeto em movimento,15
+2019,AC,Colisão frontal,15
+2019,AP,Colisão transversal,14
+2019,SC,Derramamento de carga,13
+2019,AM,Colisão traseira,13
+2019,RR,Colisão com objeto estático,13
+2019,TO,Capotamento,13
+2019,ES,Danos eventuais,13
+2019,RS,Danos eventuais,12
+2019,RO,Engavetamento,12
+2019,DF,Engavetamento,12
+2019,MS,Engavetamento,12
+2019,GO,Danos eventuais,11
+2019,PE,Danos eventuais,11
+2019,RN,Incêndio,11
+2019,AC,Atropelamento de Pedestre,11
+2019,BA,Derramamento de carga,10
+2019,RR,Queda de ocupante de veículo,10
+2019,DF,Incêndio,10
+2019,AC,Capotamento,10
+2019,AP,Colisão frontal,10
+2019,AC,Colisão com objeto estático,10
+2019,AM,Colisão com objeto estático,9
+2019,MA,Engavetamento,9
+2019,SP,Derramamento de carga,9
+2019,PI,Engavetamento,9
+2019,AM,Colisão frontal,9
+2019,RS,Derramamento de carga,8
+2019,PA,Engavetamento,8
+2019,PE,Derramamento de carga,8
+2019,AM,Atropelamento de Pedestre,8
+2019,PA,Incêndio,8
+2019,AP,Tombamento,7
+2019,AM,Colisão lateral,7
+2019,AM,Tombamento,7
+2019,MS,Colisão com objeto em movimento,7
+2019,GO,Derramamento de carga,7
+2019,AP,Colisão com objeto estático,7
+2019,RR,Tombamento,7
+2019,TO,Engavetamento,6
+2019,RN,Colisão com objeto em movimento,6
+2019,PI,Colisão com objeto em movimento,6
+2019,AC,Atropelamento de Animal,6
+2019,PA,Colisão com objeto em movimento,6
+2019,SE,Engavetamento,6
+2019,TO,Atropelamento de Animal,6
+2019,ES,Derramamento de carga,6
+2019,DF,Atropelamento de Animal,6
+2019,CE,Colisão com objeto em movimento,6
+2019,MS,Derramamento de carga,5
+2019,RO,Danos eventuais,5
+2019,AL,Colisão com objeto em movimento,5
+2019,RR,Capotamento,5
+2019,AM,Capotamento,5
+2019,MT,Danos eventuais,5
+2019,MA,Colisão com objeto em movimento,5
+2019,MS,Danos eventuais,5
+2019,SP,Danos eventuais,5
+2019,AP,Capotamento,5
+2019,MA,Danos eventuais,5
+2019,RR,Atropelamento de Animal,5
+2019,SE,Incêndio,4
+2019,PI,Danos eventuais,4
+2019,PA,Danos eventuais,4
+2019,SE,Colisão com objeto em movimento,4
+2019,MT,Derramamento de carga,4
+2019,SE,Danos eventuais,4
+2019,AL,Incêndio,4
+2019,RN,Danos eventuais,4
+2019,AP,Atropelamento de Animal,4
+2019,PB,Colisão com objeto em movimento,4
+2019,CE,Danos eventuais,4
+2019,CE,Derramamento de carga,4
+2019,BA,Danos eventuais,4
+2019,AM,Incêndio,3
+2019,RO,Colisão com objeto em movimento,3
+2019,AP,Queda de ocupante de veículo,3
+2019,RO,Derramamento de carga,3
+2019,PI,Derramamento de carga,3
+2019,AM,Colisão transversal,3
+2019,TO,Danos eventuais,3
+2019,AC,Engavetamento,3
+2019,AL,Engavetamento,3
+2019,RR,Colisão com objeto em movimento,2
+2019,SE,Derramamento de carga,2
+2019,PB,Danos eventuais,2
+2019,MA,Derramamento de carga,2
+2019,TO,Colisão com objeto em movimento,2
+2019,AM,Danos eventuais,2
+2019,AM,Atropelamento de Animal,2
+2019,RN,Derramamento de carga,2
+2019,AC,Colisão com objeto em movimento,2
+2019,PB,Derramamento de carga,2
+2019,DF,Danos eventuais,2
+2019,AP,Incêndio,1
+2019,AC,Derramamento de carga,1
+2019,DF,Colisão com objeto em movimento,1
+2019,RR,Engavetamento,1
+2019,TO,Derramamento de carga,1
+2019,AL,Danos eventuais,1
+2019,AC,Incêndio,1
+2019,PA,Derramamento de carga,1
+2019,AL,Derramamento de carga,1
+2019,AP,Colisão com objeto em movimento,1
+2019,RR,Incêndio,1
+2019,DF,Derramamento de carga,1
+2018,MG,Saída de leito carroçável,2144
+2018,SC,Colisão traseira,1719
+2018,PR,Colisão traseira,1559
+2018,PR,Saída de leito carroçável,1451
+2018,SC,Colisão transversal,1395
+2018,MG,Colisão traseira,1393
+2018,SC,Colisão lateral,1255
+2018,SC,Saída de leito carroçável,1165
+2018,SP,Colisão traseira,1159
+2018,PR,Colisão transversal,1092
+2018,RS,Saída de leito carroçável,948
+2018,MG,Tombamento,905
+2018,RJ,Colisão traseira,902
+2018,PR,Colisão lateral,899
+2018,GO,Saída de leito carroçável,866
+2018,MG,Colisão com objeto estático,816
+2018,RS,Colisão transversal,792
+2018,MG,Colisão lateral,790
+2018,MG,Colisão transversal,708
+2018,SC,Colisão com objeto estático,703
+2018,RS,Colisão traseira,691
+2018,MT,Saída de leito carroçável,681
+2018,GO,Colisão traseira,669
+2018,SP,Colisão lateral,648
+2018,SP,Colisão com objeto estático,613
+2018,RJ,Colisão com objeto estático,605
+2018,SC,Colisão frontal,597
+2018,SC,Tombamento,570
+2018,RJ,Colisão lateral,565
+2018,MG,Colisão frontal,559
+2018,PE,Colisão traseira,550
+2018,BA,Saída de leito carroçável,536
+2018,PR,Colisão com objeto estático,535
+2018,RS,Colisão lateral,501
+2018,BA,Colisão traseira,495
+2018,ES,Colisão transversal,492
+2018,ES,Colisão traseira,485
+2018,PR,Tombamento,484
+2018,MG,Capotamento,479
+2018,SP,Tombamento,468
+2018,PR,Queda de ocupante de veículo,460
+2018,BA,Colisão transversal,443
+2018,BA,Colisão frontal,425
+2018,PR,Atropelamento de Pedestre,412
+2018,RJ,Colisão transversal,411
+2018,BA,Colisão lateral,406
+2018,RJ,Saída de leito carroçável,397
+2018,PR,Colisão frontal,390
+2018,PE,Colisão lateral,385
+2018,SP,Saída de leito carroçável,385
+2018,ES,Colisão lateral,377
+2018,MS,Saída de leito carroçável,364
+2018,MG,Queda de ocupante de veículo,360
+2018,MG,Atropelamento de Pedestre,354
+2018,PE,Saída de leito carroçável,351
+2018,RN,Colisão traseira,346
+2018,GO,Colisão lateral,346
+2018,CE,Colisão traseira,346
+2018,MT,Colisão traseira,343
+2018,PE,Colisão transversal,335
+2018,PB,Colisão traseira,327
+2018,RS,Tombamento,327
+2018,RS,Colisão frontal,322
+2018,RO,Colisão traseira,316
+2018,RJ,Tombamento,314
+2018,GO,Colisão transversal,308
+2018,SC,Queda de ocupante de veículo,304
+2018,RJ,Colisão frontal,302
+2018,BA,Tombamento,302
+2018,RO,Colisão transversal,299
+2018,RS,Colisão com objeto estático,296
+2018,PA,Colisão traseira,295
+2018,PR,Capotamento,293
+2018,RJ,Atropelamento de Pedestre,291
+2018,MT,Colisão lateral,277
+2018,MT,Colisão transversal,273
+2018,CE,Colisão transversal,269
+2018,RJ,Queda de ocupante de veículo,268
+2018,RO,Saída de leito carroçável,255
+2018,SC,Atropelamento de Pedestre,252
+2018,PI,Colisão traseira,250
+2018,PB,Saída de leito carroçável,250
+2018,PA,Colisão transversal,249
+2018,SC,Capotamento,248
+2018,SP,Atropelamento de Pedestre,246
+2018,PE,Colisão frontal,246
+2018,MT,Tombamento,243
+2018,DF,Colisão traseira,241
+2018,MA,Colisão traseira,234
+2018,RN,Colisão transversal,232
+2018,MT,Colisão frontal,229
+2018,ES,Queda de ocupante de veículo,229
+2018,GO,Colisão com objeto estático,228
+2018,BA,Atropelamento de Pedestre,227
+2018,RJ,Capotamento,226
+2018,CE,Colisão lateral,225
+2018,PI,Colisão transversal,219
+2018,SP,Capotamento,217
+2018,ES,Tombamento,217
+2018,RO,Colisão lateral,209
+2018,PA,Colisão lateral,209
+2018,BA,Capotamento,207
+2018,MS,Colisão traseira,206
+2018,SP,Colisão transversal,203
+2018,SP,Queda de ocupante de veículo,201
+2018,ES,Saída de leito carroçável,199
+2018,PI,Saída de leito carroçável,198
+2018,GO,Tombamento,198
+2018,MA,Colisão transversal,188
+2018,MA,Colisão lateral,185
+2018,RN,Colisão lateral,184
+2018,GO,Colisão frontal,183
+2018,BA,Queda de ocupante de veículo,183
+2018,RS,Atropelamento de Pedestre,182
+2018,MS,Colisão transversal,182
+2018,CE,Saída de leito carroçável,178
+2018,MT,Queda de ocupante de veículo,176
+2018,PE,Atropelamento de Pedestre,176
+2018,DF,Colisão lateral,171
+2018,GO,Capotamento,171
+2018,ES,Atropelamento de Pedestre,167
+2018,MA,Saída de leito carroçável,162
+2018,GO,Queda de ocupante de veículo,161
+2018,PB,Colisão lateral,161
+2018,MS,Tombamento,161
+2018,MG,Incêndio,157
+2018,PB,Colisão com objeto estático,156
+2018,GO,Atropelamento de Pedestre,153
+2018,MA,Colisão frontal,152
+2018,PE,Colisão com objeto estático,152
+2018,PE,Capotamento,151
+2018,ES,Colisão frontal,149
+2018,PB,Colisão transversal,148
+2018,MG,Atropelamento de Animal,147
+2018,PI,Colisão lateral,146
+2018,ES,Colisão com objeto estático,138
+2018,DF,Saída de leito carroçável,136
+2018,PA,Saída de leito carroçável,125
+2018,CE,Colisão frontal,124
+2018,PR,Engavetamento,122
+2018,AL,Saída de leito carroçável,119
+2018,CE,Atropelamento de Pedestre,119
+2018,SC,Engavetamento,118
+2018,PI,Colisão frontal,118
+2018,TO,Saída de leito carroçável,118
+2018,PE,Tombamento,114
+2018,BA,Colisão com objeto estático,110
+2018,MS,Colisão lateral,108
+2018,SE,Colisão traseira,108
+2018,MS,Colisão frontal,106
+2018,PB,Atropelamento de Pedestre,105
+2018,PB,Tombamento,104
+2018,MG,Engavetamento,102
+2018,MT,Capotamento,102
+2018,RO,Colisão frontal,100
+2018,CE,Tombamento,99
+2018,MA,Tombamento,98
+2018,RO,Tombamento,98
+2018,RN,Colisão frontal,97
+2018,SP,Engavetamento,94
+2018,MT,Colisão com objeto estático,94
+2018,PI,Tombamento,91
+2018,RN,Saída de leito carroçável,90
+2018,RS,Atropelamento de Animal,90
+2018,RJ,Engavetamento,86
+2018,TO,Colisão traseira,86
+2018,RN,Atropelamento de Pedestre,86
+2018,PE,Atropelamento de Animal,85
+2018,SP,Incêndio,85
+2018,ES,Capotamento,85
+2018,RJ,Incêndio,84
+2018,MS,Colisão com objeto estático,83
+2018,AL,Colisão lateral,82
+2018,AL,Colisão transversal,82
+2018,PR,Atropelamento de Animal,81
+2018,SP,Colisão frontal,81
+2018,AL,Colisão traseira,81
+2018,PA,Colisão frontal,80
+2018,RN,Tombamento,79
+2018,PB,Engavetamento,79
+2018,CE,Colisão com objeto estático,78
+2018,SE,Colisão transversal,78
+2018,CE,Queda de ocupante de veículo,78
+2018,PR,Incêndio,77
+2018,SE,Saída de leito carroçável,76
+2018,RO,Atropelamento de Pedestre,76
+2018,RS,Capotamento,74
+2018,RO,Colisão com objeto estático,74
+2018,PI,Colisão com objeto estático,74
+2018,PA,Atropelamento de Pedestre,74
+2018,RO,Queda de ocupante de veículo,73
+2018,PI,Atropelamento de Pedestre,73
+2018,TO,Colisão lateral,72
+2018,AL,Colisão frontal,71
+2018,MS,Queda de ocupante de veículo,70
+2018,RN,Colisão com objeto estático,69
+2018,PA,Tombamento,69
+2018,RN,Capotamento,68
+2018,BA,Incêndio,68
+2018,SC,Incêndio,68
+2018,MS,Capotamento,67
+2018,RN,Atropelamento de Animal,67
+2018,PI,Atropelamento de Animal,66
+2018,PE,Queda de ocupante de veículo,65
+2018,TO,Tombamento,65
+2018,DF,Colisão transversal,65
+2018,CE,Atropelamento de Animal,65
+2018,GO,Incêndio,64
+2018,MS,Atropelamento de Animal,64
+2018,RS,Incêndio,64
+2018,PB,Queda de ocupante de veículo,63
+2018,AL,Tombamento,62
+2018,MT,Atropelamento de Pedestre,61
+2018,DF,Capotamento,60
+2018,PB,Colisão frontal,60
+2018,TO,Colisão transversal,59
+2018,TO,Colisão frontal,59
+2018,PB,Atropelamento de Animal,58
+2018,GO,Atropelamento de Animal,58
+2018,BA,Atropelamento de Animal,58
+2018,RN,Queda de ocupante de veículo,58
+2018,RS,Queda de ocupante de veículo,57
+2018,MS,Atropelamento de Pedestre,57
+2018,MG,Derramamento de carga,54
+2018,PI,Capotamento,53
+2018,BA,Engavetamento,53
+2018,RJ,Atropelamento de Animal,53
+2018,SE,Colisão frontal,52
+2018,MT,Atropelamento de Animal,51
+2018,PB,Capotamento,51
+2018,MG,Danos eventuais,50
+2018,MA,Atropelamento de Pedestre,50
+2018,AC,Colisão traseira,50
+2018,RS,Engavetamento,50
+2018,RR,Colisão traseira,50
+2018,MA,Capotamento,49
+2018,DF,Atropelamento de Pedestre,49
+2018,CE,Capotamento,49
+2018,MG,Colisão com objeto em movimento,48
+2018,MT,Incêndio,48
+2018,PR,Colisão com objeto em movimento,48
+2018,SE,Colisão com objeto estático,45
+2018,SE,Tombamento,45
+2018,MA,Atropelamento de Animal,44
+2018,SP,Colisão com objeto em movimento,44
+2018,SC,Atropelamento de Animal,43
+2018,AL,Atropelamento de Pedestre,43
+2018,RR,Saída de leito carroçável,43
+2018,AC,Colisão lateral,42
+2018,DF,Colisão com objeto estático,42
+2018,RJ,Colisão com objeto em movimento,41
+2018,PE,Engavetamento,41
+2018,PI,Queda de ocupante de veículo,39
+2018,SP,Atropelamento de Animal,39
+2018,AM,Saída de leito carroçável,37
+2018,AL,Colisão com objeto estático,36
+2018,AL,Capotamento,36
+2018,SE,Queda de ocupante de veículo,36
+2018,SE,Colisão lateral,36
+2018,SE,Atropelamento de Pedestre,35
+2018,RR,Colisão lateral,35
+2018,MA,Queda de ocupante de veículo,35
+2018,AL,Atropelamento de Animal,35
+2018,PR,Derramamento de carga,34
+2018,RR,Colisão transversal,34
+2018,RO,Atropelamento de Animal,34
+2018,AP,Colisão traseira,33
+2018,AC,Saída de leito carroçável,33
+2018,PA,Queda de ocupante de veículo,31
+2018,AC,Colisão transversal,31
+2018,MS,Incêndio,31
+2018,PE,Incêndio,30
+2018,RO,Capotamento,30
+2018,TO,Capotamento,29
+2018,PA,Capotamento,29
+2018,MA,Colisão com objeto estático,29
+2018,PA,Atropelamento de Animal,28
+2018,AP,Colisão transversal,28
+2018,TO,Atropelamento de Pedestre,28
+2018,SC,Colisão com objeto em movimento,27
+2018,BA,Colisão com objeto em movimento,27
+2018,TO,Colisão com objeto estático,27
+2018,MT,Engavetamento,27
+2018,AP,Saída de leito carroçável,27
+2018,RO,Engavetamento,26
+2018,PA,Colisão com objeto estático,26
+2018,ES,Incêndio,26
+2018,DF,Queda de ocupante de veículo,25
+2018,CE,Engavetamento,25
+2018,GO,Engavetamento,24
+2018,AL,Queda de ocupante de veículo,24
+2018,AP,Colisão lateral,23
+2018,ES,Atropelamento de Animal,23
+2018,RS,Colisão com objeto em movimento,23
+2018,ES,Engavetamento,23
+2018,DF,Colisão frontal,22
+2018,RJ,Derramamento de carga,22
+2018,PI,Engavetamento,21
+2018,GO,Colisão com objeto em movimento,21
+2018,SP,Derramamento de carga,21
+2018,DF,Tombamento,20
+2018,AC,Colisão frontal,19
+2018,CE,Incêndio,19
+2018,PE,Danos eventuais,19
+2018,RN,Engavetamento,19
+2018,RS,Derramamento de carga,19
+2018,RR,Atropelamento de Pedestre,19
+2018,SC,Danos eventuais,19
+2018,DF,Engavetamento,19
+2018,ES,Colisão com objeto em movimento,18
+2018,PB,Incêndio,18
+2018,RO,Incêndio,16
+2018,AP,Colisão frontal,16
+2018,TO,Queda de ocupante de veículo,16
+2018,PA,Engavetamento,16
+2018,AM,Colisão frontal,15
+2018,SE,Atropelamento de Animal,15
+2018,PR,Danos eventuais,15
+2018,AC,Tombamento,15
+2018,SC,Derramamento de carga,14
+2018,AM,Atropelamento de Pedestre,14
+2018,MA,Incêndio,14
+2018,PE,Colisão com objeto em movimento,13
+2018,SE,Engavetamento,13
+2018,AM,Colisão traseira,13
+2018,AP,Atropelamento de Pedestre,13
+2018,MA,Engavetamento,12
+2018,PI,Incêndio,12
+2018,RO,Derramamento de carga,12
+2018,AC,Atropelamento de Pedestre,12
+2018,AP,Tombamento,12
+2018,MT,Colisão com objeto em movimento,12
+2018,PA,Colisão com objeto em movimento,12
+2018,SP,Danos eventuais,12
+2018,AC,Queda de ocupante de veículo,12
+2018,MS,Danos eventuais,11
+2018,AM,Colisão com objeto estático,11
+2018,AM,Colisão lateral,11
+2018,RR,Capotamento,11
+2018,TO,Incêndio,11
+2018,MS,Colisão com objeto em movimento,10
+2018,CE,Danos eventuais,10
+2018,TO,Atropelamento de Animal,10
+2018,RR,Colisão com objeto estático,10
+2018,SE,Capotamento,10
+2018,BA,Danos eventuais,10
+2018,GO,Danos eventuais,9
+2018,RR,Atropelamento de Animal,9
+2018,RR,Colisão frontal,9
+2018,RO,Colisão com objeto em movimento,9
+2018,RS,Danos eventuais,9
+2018,MS,Engavetamento,8
+2018,RJ,Danos eventuais,8
+2018,CE,Colisão com objeto em movimento,8
+2018,RN,Danos eventuais,8
+2018,ES,Derramamento de carga,8
+2018,PA,Incêndio,8
+2018,MT,Derramamento de carga,7
+2018,DF,Incêndio,7
+2018,AC,Capotamento,7
+2018,MT,Danos eventuais,7
+2018,MA,Danos eventuais,7
+2018,MA,Colisão com objeto em movimento,7
+2018,RN,Colisão com objeto em movimento,7
+2018,AM,Capotamento,6
+2018,SE,Incêndio,6
+2018,AC,Colisão com objeto estático,6
+2018,RR,Tombamento,6
+2018,PA,Danos eventuais,6
+2018,AL,Derramamento de carga,6
+2018,RR,Queda de ocupante de veículo,6
+2018,AL,Colisão com objeto em movimento,6
+2018,MA,Derramamento de carga,6
+2018,TO,Engavetamento,6
+2018,AP,Capotamento,6
+2018,ES,Danos eventuais,6
+2018,AM,Tombamento,5
+2018,PB,Colisão com objeto em movimento,5
+2018,BA,Derramamento de carga,5
+2018,RN,Incêndio,5
+2018,CE,Derramamento de carga,5
+2018,PI,Colisão com objeto em movimento,5
+2018,DF,Colisão com objeto em movimento,5
+2018,GO,Derramamento de carga,5
+2018,PI,Derramamento de carga,4
+2018,AM,Atropelamento de Animal,4
+2018,AP,Colisão com objeto estático,4
+2018,AP,Danos eventuais,3
+2018,AP,Incêndio,3
+2018,AL,Incêndio,3
+2018,AL,Engavetamento,3
+2018,DF,Atropelamento de Animal,3
+2018,AM,Colisão transversal,3
+2018,PB,Danos eventuais,3
+2018,PA,Derramamento de carga,3
+2018,AC,Incêndio,3
+2018,AC,Atropelamento de Animal,3
+2018,AM,Incêndio,2
+2018,AL,Danos eventuais,2
+2018,SE,Colisão com objeto em movimento,2
+2018,MS,Derramamento de carga,2
+2018,DF,Derramamento de carga,2
+2018,PE,Derramamento de carga,2
+2018,AP,Atropelamento de Animal,2
+2018,RR,Incêndio,2
+2018,RR,Engavetamento,2
+2018,RO,Danos eventuais,2
+2018,PI,Danos eventuais,2
+2018,TO,Derramamento de carga,2
+2018,AC,Engavetamento,1
+2018,SE,Danos eventuais,1
+2018,AP,Colisão com objeto em movimento,1
+2018,TO,Danos eventuais,1
+2018,AP,Derramamento de carga,1
+2018,AM,Engavetamento,1
+2018,AM,Queda de ocupante de veículo,1
+2018,AC,Danos eventuais,1
+2018,AP,Queda de ocupante de veículo,1
+2018,SE,Derramamento de carga,1
+2018,AM,Danos eventuais,1
+2018,RN,Derramamento de carga,1

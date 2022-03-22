@@ -1,0 +1,391 @@
+ano,dia_semana,tipo_acidente,quantidade
+2020,domingo,Atropelamento de Animal,169
+2020,domingo,Atropelamento de Pedestre,428
+2020,domingo,Capotamento,415
+2020,domingo,Colisão com objeto,1
+2020,domingo,Colisão com objeto em movimento,26
+2020,domingo,Colisão com objeto estático,1029
+2020,domingo,Colisão frontal,853
+2020,domingo,Colisão lateral,978
+2020,domingo,Colisão lateral mesmo sentido,3
+2020,domingo,Colisão transversal,979
+2020,domingo,Colisão traseira,1679
+2020,domingo,Danos eventuais,29
+2020,domingo,Derramamento de carga,15
+2020,domingo,Engavetamento,82
+2020,domingo,Incêndio,163
+2020,domingo,Queda de ocupante de veículo,486
+2020,domingo,Saída de leito carroçável,2175
+2020,domingo,Tombamento,910
+2020,quarta-feira,Atropelamento de Animal,164
+2020,quarta-feira,Atropelamento de Pedestre,348
+2020,quarta-feira,Capotamento,200
+2020,quarta-feira,Colisão com objeto,5
+2020,quarta-feira,Colisão com objeto em movimento,37
+2020,quarta-feira,Colisão com objeto estático,546
+2020,quarta-feira,Colisão frontal,465
+2020,quarta-feira,Colisão lateral,1028
+2020,quarta-feira,Colisão lateral mesmo sentido,2
+2020,quarta-feira,Colisão lateral sentido oposto,3
+2020,quarta-feira,Colisão transversal,1061
+2020,quarta-feira,Colisão traseira,1548
+2020,quarta-feira,Danos eventuais,34
+2020,quarta-feira,Derramamento de carga,31
+2020,quarta-feira,Engavetamento,156
+2020,quarta-feira,Incêndio,173
+2020,quarta-feira,Queda de ocupante de veículo,383
+2020,quarta-feira,Saída de leito carroçável,1184
+2020,quarta-feira,Tombamento,787
+2020,quinta-feira,Atropelamento de Animal,149
+2020,quinta-feira,Atropelamento de Pedestre,382
+2020,quinta-feira,Capotamento,193
+2020,quinta-feira,Colisão com objeto,8
+2020,quinta-feira,Colisão com objeto em movimento,38
+2020,quinta-feira,Colisão com objeto estático,526
+2020,quinta-feira,Colisão frontal,531
+2020,quinta-feira,Colisão lateral,1031
+2020,quinta-feira,Colisão lateral mesmo sentido,2
+2020,quinta-feira,Colisão lateral sentido oposto,3
+2020,quinta-feira,Colisão transversal,1130
+2020,quinta-feira,Colisão traseira,1488
+2020,quinta-feira,Danos eventuais,29
+2020,quinta-feira,Derramamento de carga,35
+2020,quinta-feira,Engavetamento,132
+2020,quinta-feira,Incêndio,178
+2020,quinta-feira,Queda de ocupante de veículo,349
+2020,quinta-feira,Saída de leito carroçável,1254
+2020,quinta-feira,Tombamento,786
+2020,segunda-feira,Atropelamento de Animal,182
+2020,segunda-feira,Atropelamento de Pedestre,402
+2020,segunda-feira,Capotamento,240
+2020,segunda-feira,Colisão com objeto,1
+2020,segunda-feira,Colisão com objeto em movimento,24
+2020,segunda-feira,Colisão com objeto estático,616
+2020,segunda-feira,Colisão frontal,558
+2020,segunda-feira,Colisão lateral,1034
+2020,segunda-feira,Colisão transversal,1061
+2020,segunda-feira,Colisão traseira,1584
+2020,segunda-feira,Danos eventuais,35
+2020,segunda-feira,Derramamento de carga,27
+2020,segunda-feira,Engavetamento,149
+2020,segunda-feira,Eventos atípicos,1
+2020,segunda-feira,Incêndio,156
+2020,segunda-feira,Queda de ocupante de veículo,427
+2020,segunda-feira,Saída de leito carroçável,1317
+2020,segunda-feira,Tombamento,705
+2020,sexta-feira,Atropelamento de Animal,200
+2020,sexta-feira,Atropelamento de Pedestre,465
+2020,sexta-feira,Capotamento,258
+2020,sexta-feira,Colisão com objeto,2
+2020,sexta-feira,Colisão com objeto em movimento,39
+2020,sexta-feira,Colisão com objeto estático,654
+2020,sexta-feira,Colisão frontal,693
+2020,sexta-feira,Colisão lateral,1240
+2020,sexta-feira,Colisão transversal,1294
+2020,sexta-feira,Colisão traseira,1882
+2020,sexta-feira,Danos eventuais,31
+2020,sexta-feira,Derramamento de carga,37
+2020,sexta-feira,Engavetamento,145
+2020,sexta-feira,Eventos atípicos,1
+2020,sexta-feira,Incêndio,188
+2020,sexta-feira,Queda de ocupante de veículo,400
+2020,sexta-feira,Saída de leito carroçável,1423
+2020,sexta-feira,Tombamento,812
+2020,sábado,Atropelamento de Animal,161
+2020,sábado,Atropelamento de Pedestre,458
+2020,sábado,Capotamento,359
+2020,sábado,Colisão com objeto,4
+2020,sábado,Colisão com objeto em movimento,46
+2020,sábado,Colisão com objeto estático,989
+2020,sábado,Colisão frontal,853
+2020,sábado,Colisão lateral,1145
+2020,sábado,Colisão lateral mesmo sentido,3
+2020,sábado,Colisão lateral sentido oposto,1
+2020,sábado,Colisão transversal,1287
+2020,sábado,Colisão traseira,1787
+2020,sábado,Danos eventuais,36
+2020,sábado,Derramamento de carga,29
+2020,sábado,Engavetamento,97
+2020,sábado,Incêndio,160
+2020,sábado,Queda de ocupante de veículo,437
+2020,sábado,Saída de leito carroçável,2003
+2020,sábado,Tombamento,812
+2020,terça-feira,Atropelamento de Animal,131
+2020,terça-feira,Atropelamento de Pedestre,355
+2020,terça-feira,Capotamento,193
+2020,terça-feira,Colisão com objeto,2
+2020,terça-feira,Colisão com objeto em movimento,45
+2020,terça-feira,Colisão com objeto estático,529
+2020,terça-feira,Colisão frontal,477
+2020,terça-feira,Colisão lateral,987
+2020,terça-feira,Colisão lateral mesmo sentido,1
+2020,terça-feira,Colisão lateral sentido oposto,1
+2020,terça-feira,Colisão transversal,1006
+2020,terça-feira,Colisão traseira,1491
+2020,terça-feira,Danos eventuais,38
+2020,terça-feira,Derramamento de carga,27
+2020,terça-feira,Engavetamento,137
+2020,terça-feira,Incêndio,159
+2020,terça-feira,Queda de ocupante de veículo,316
+2020,terça-feira,Saída de leito carroçável,1134
+2020,terça-feira,Tombamento,750
+2019,domingo,Atropelamento de Animal,169
+2019,domingo,Atropelamento de Pedestre,428
+2019,domingo,Capotamento,415
+2019,domingo,Colisão com objeto,1
+2019,domingo,Colisão com objeto em movimento,26
+2019,domingo,Colisão com objeto estático,1029
+2019,domingo,Colisão frontal,853
+2019,domingo,Colisão lateral,978
+2019,domingo,Colisão lateral mesmo sentido,3
+2019,domingo,Colisão transversal,979
+2019,domingo,Colisão traseira,1679
+2019,domingo,Danos eventuais,29
+2019,domingo,Derramamento de carga,15
+2019,domingo,Engavetamento,82
+2019,domingo,Incêndio,163
+2019,domingo,Queda de ocupante de veículo,486
+2019,domingo,Saída de leito carroçável,2175
+2019,domingo,Tombamento,910
+2019,quarta-feira,Atropelamento de Animal,164
+2019,quarta-feira,Atropelamento de Pedestre,348
+2019,quarta-feira,Capotamento,200
+2019,quarta-feira,Colisão com objeto,5
+2019,quarta-feira,Colisão com objeto em movimento,37
+2019,quarta-feira,Colisão com objeto estático,546
+2019,quarta-feira,Colisão frontal,465
+2019,quarta-feira,Colisão lateral,1028
+2019,quarta-feira,Colisão lateral mesmo sentido,2
+2019,quarta-feira,Colisão lateral sentido oposto,3
+2019,quarta-feira,Colisão transversal,1061
+2019,quarta-feira,Colisão traseira,1548
+2019,quarta-feira,Danos eventuais,34
+2019,quarta-feira,Derramamento de carga,31
+2019,quarta-feira,Engavetamento,156
+2019,quarta-feira,Incêndio,173
+2019,quarta-feira,Queda de ocupante de veículo,383
+2019,quarta-feira,Saída de leito carroçável,1184
+2019,quarta-feira,Tombamento,787
+2019,quinta-feira,Atropelamento de Animal,149
+2019,quinta-feira,Atropelamento de Pedestre,382
+2019,quinta-feira,Capotamento,193
+2019,quinta-feira,Colisão com objeto,8
+2019,quinta-feira,Colisão com objeto em movimento,38
+2019,quinta-feira,Colisão com objeto estático,526
+2019,quinta-feira,Colisão frontal,531
+2019,quinta-feira,Colisão lateral,1031
+2019,quinta-feira,Colisão lateral mesmo sentido,2
+2019,quinta-feira,Colisão lateral sentido oposto,3
+2019,quinta-feira,Colisão transversal,1130
+2019,quinta-feira,Colisão traseira,1488
+2019,quinta-feira,Danos eventuais,29
+2019,quinta-feira,Derramamento de carga,35
+2019,quinta-feira,Engavetamento,132
+2019,quinta-feira,Incêndio,178
+2019,quinta-feira,Queda de ocupante de veículo,349
+2019,quinta-feira,Saída de leito carroçável,1254
+2019,quinta-feira,Tombamento,786
+2019,segunda-feira,Atropelamento de Animal,182
+2019,segunda-feira,Atropelamento de Pedestre,402
+2019,segunda-feira,Capotamento,240
+2019,segunda-feira,Colisão com objeto,1
+2019,segunda-feira,Colisão com objeto em movimento,24
+2019,segunda-feira,Colisão com objeto estático,616
+2019,segunda-feira,Colisão frontal,558
+2019,segunda-feira,Colisão lateral,1034
+2019,segunda-feira,Colisão transversal,1061
+2019,segunda-feira,Colisão traseira,1584
+2019,segunda-feira,Danos eventuais,35
+2019,segunda-feira,Derramamento de carga,27
+2019,segunda-feira,Engavetamento,149
+2019,segunda-feira,Eventos atípicos,1
+2019,segunda-feira,Incêndio,156
+2019,segunda-feira,Queda de ocupante de veículo,427
+2019,segunda-feira,Saída de leito carroçável,1317
+2019,segunda-feira,Tombamento,705
+2019,sexta-feira,Atropelamento de Animal,200
+2019,sexta-feira,Atropelamento de Pedestre,465
+2019,sexta-feira,Capotamento,258
+2019,sexta-feira,Colisão com objeto,2
+2019,sexta-feira,Colisão com objeto em movimento,39
+2019,sexta-feira,Colisão com objeto estático,654
+2019,sexta-feira,Colisão frontal,693
+2019,sexta-feira,Colisão lateral,1240
+2019,sexta-feira,Colisão transversal,1294
+2019,sexta-feira,Colisão traseira,1882
+2019,sexta-feira,Danos eventuais,31
+2019,sexta-feira,Derramamento de carga,37
+2019,sexta-feira,Engavetamento,145
+2019,sexta-feira,Eventos atípicos,1
+2019,sexta-feira,Incêndio,188
+2019,sexta-feira,Queda de ocupante de veículo,400
+2019,sexta-feira,Saída de leito carroçável,1423
+2019,sexta-feira,Tombamento,812
+2019,sábado,Atropelamento de Animal,161
+2019,sábado,Atropelamento de Pedestre,458
+2019,sábado,Capotamento,359
+2019,sábado,Colisão com objeto,4
+2019,sábado,Colisão com objeto em movimento,46
+2019,sábado,Colisão com objeto estático,989
+2019,sábado,Colisão frontal,853
+2019,sábado,Colisão lateral,1145
+2019,sábado,Colisão lateral mesmo sentido,3
+2019,sábado,Colisão lateral sentido oposto,1
+2019,sábado,Colisão transversal,1287
+2019,sábado,Colisão traseira,1787
+2019,sábado,Danos eventuais,36
+2019,sábado,Derramamento de carga,29
+2019,sábado,Engavetamento,97
+2019,sábado,Incêndio,160
+2019,sábado,Queda de ocupante de veículo,437
+2019,sábado,Saída de leito carroçável,2003
+2019,sábado,Tombamento,812
+2019,terça-feira,Atropelamento de Animal,131
+2019,terça-feira,Atropelamento de Pedestre,355
+2019,terça-feira,Capotamento,193
+2019,terça-feira,Colisão com objeto,2
+2019,terça-feira,Colisão com objeto em movimento,45
+2019,terça-feira,Colisão com objeto estático,529
+2019,terça-feira,Colisão frontal,477
+2019,terça-feira,Colisão lateral,987
+2019,terça-feira,Colisão lateral mesmo sentido,1
+2019,terça-feira,Colisão lateral sentido oposto,1
+2019,terça-feira,Colisão transversal,1006
+2019,terça-feira,Colisão traseira,1491
+2019,terça-feira,Danos eventuais,38
+2019,terça-feira,Derramamento de carga,27
+2019,terça-feira,Engavetamento,137
+2019,terça-feira,Incêndio,159
+2019,terça-feira,Queda de ocupante de veículo,316
+2019,terça-feira,Saída de leito carroçável,1134
+2019,terça-feira,Tombamento,750
+2018,domingo,Atropelamento de Animal,169
+2018,domingo,Atropelamento de Pedestre,428
+2018,domingo,Capotamento,415
+2018,domingo,Colisão com objeto,1
+2018,domingo,Colisão com objeto em movimento,26
+2018,domingo,Colisão com objeto estático,1029
+2018,domingo,Colisão frontal,853
+2018,domingo,Colisão lateral,978
+2018,domingo,Colisão lateral mesmo sentido,3
+2018,domingo,Colisão transversal,979
+2018,domingo,Colisão traseira,1679
+2018,domingo,Danos eventuais,29
+2018,domingo,Derramamento de carga,15
+2018,domingo,Engavetamento,82
+2018,domingo,Incêndio,163
+2018,domingo,Queda de ocupante de veículo,486
+2018,domingo,Saída de leito carroçável,2175
+2018,domingo,Tombamento,910
+2018,quarta-feira,Atropelamento de Animal,164
+2018,quarta-feira,Atropelamento de Pedestre,348
+2018,quarta-feira,Capotamento,200
+2018,quarta-feira,Colisão com objeto,5
+2018,quarta-feira,Colisão com objeto em movimento,37
+2018,quarta-feira,Colisão com objeto estático,546
+2018,quarta-feira,Colisão frontal,465
+2018,quarta-feira,Colisão lateral,1028
+2018,quarta-feira,Colisão lateral mesmo sentido,2
+2018,quarta-feira,Colisão lateral sentido oposto,3
+2018,quarta-feira,Colisão transversal,1061
+2018,quarta-feira,Colisão traseira,1548
+2018,quarta-feira,Danos eventuais,34
+2018,quarta-feira,Derramamento de carga,31
+2018,quarta-feira,Engavetamento,156
+2018,quarta-feira,Incêndio,173
+2018,quarta-feira,Queda de ocupante de veículo,383
+2018,quarta-feira,Saída de leito carroçável,1184
+2018,quarta-feira,Tombamento,787
+2018,quinta-feira,Atropelamento de Animal,149
+2018,quinta-feira,Atropelamento de Pedestre,382
+2018,quinta-feira,Capotamento,193
+2018,quinta-feira,Colisão com objeto,8
+2018,quinta-feira,Colisão com objeto em movimento,38
+2018,quinta-feira,Colisão com objeto estático,526
+2018,quinta-feira,Colisão frontal,531
+2018,quinta-feira,Colisão lateral,1031
+2018,quinta-feira,Colisão lateral mesmo sentido,2
+2018,quinta-feira,Colisão lateral sentido oposto,3
+2018,quinta-feira,Colisão transversal,1130
+2018,quinta-feira,Colisão traseira,1488
+2018,quinta-feira,Danos eventuais,29
+2018,quinta-feira,Derramamento de carga,35
+2018,quinta-feira,Engavetamento,132
+2018,quinta-feira,Incêndio,178
+2018,quinta-feira,Queda de ocupante de veículo,349
+2018,quinta-feira,Saída de leito carroçável,1254
+2018,quinta-feira,Tombamento,786
+2018,segunda-feira,Atropelamento de Animal,182
+2018,segunda-feira,Atropelamento de Pedestre,402
+2018,segunda-feira,Capotamento,240
+2018,segunda-feira,Colisão com objeto,1
+2018,segunda-feira,Colisão com objeto em movimento,24
+2018,segunda-feira,Colisão com objeto estático,616
+2018,segunda-feira,Colisão frontal,558
+2018,segunda-feira,Colisão lateral,1034
+2018,segunda-feira,Colisão transversal,1061
+2018,segunda-feira,Colisão traseira,1584
+2018,segunda-feira,Danos eventuais,35
+2018,segunda-feira,Derramamento de carga,27
+2018,segunda-feira,Engavetamento,149
+2018,segunda-feira,Eventos atípicos,1
+2018,segunda-feira,Incêndio,156
+2018,segunda-feira,Queda de ocupante de veículo,427
+2018,segunda-feira,Saída de leito carroçável,1317
+2018,segunda-feira,Tombamento,705
+2018,sexta-feira,Atropelamento de Animal,200
+2018,sexta-feira,Atropelamento de Pedestre,465
+2018,sexta-feira,Capotamento,258
+2018,sexta-feira,Colisão com objeto,2
+2018,sexta-feira,Colisão com objeto em movimento,39
+2018,sexta-feira,Colisão com objeto estático,654
+2018,sexta-feira,Colisão frontal,693
+2018,sexta-feira,Colisão lateral,1240
+2018,sexta-feira,Colisão transversal,1294
+2018,sexta-feira,Colisão traseira,1882
+2018,sexta-feira,Danos eventuais,31
+2018,sexta-feira,Derramamento de carga,37
+2018,sexta-feira,Engavetamento,145
+2018,sexta-feira,Eventos atípicos,1
+2018,sexta-feira,Incêndio,188
+2018,sexta-feira,Queda de ocupante de veículo,400
+2018,sexta-feira,Saída de leito carroçável,1423
+2018,sexta-feira,Tombamento,812
+2018,sábado,Atropelamento de Animal,161
+2018,sábado,Atropelamento de Pedestre,458
+2018,sábado,Capotamento,359
+2018,sábado,Colisão com objeto,4
+2018,sábado,Colisão com objeto em movimento,46
+2018,sábado,Colisão com objeto estático,989
+2018,sábado,Colisão frontal,853
+2018,sábado,Colisão lateral,1145
+2018,sábado,Colisão lateral mesmo sentido,3
+2018,sábado,Colisão lateral sentido oposto,1
+2018,sábado,Colisão transversal,1287
+2018,sábado,Colisão traseira,1787
+2018,sábado,Danos eventuais,36
+2018,sábado,Derramamento de carga,29
+2018,sábado,Engavetamento,97
+2018,sábado,Incêndio,160
+2018,sábado,Queda de ocupante de veículo,437
+2018,sábado,Saída de leito carroçável,2003
+2018,sábado,Tombamento,812
+2018,terça-feira,Atropelamento de Animal,131
+2018,terça-feira,Atropelamento de Pedestre,355
+2018,terça-feira,Capotamento,193
+2018,terça-feira,Colisão com objeto,2
+2018,terça-feira,Colisão com objeto em movimento,45
+2018,terça-feira,Colisão com objeto estático,529
+2018,terça-feira,Colisão frontal,477
+2018,terça-feira,Colisão lateral,987
+2018,terça-feira,Colisão lateral mesmo sentido,1
+2018,terça-feira,Colisão lateral sentido oposto,1
+2018,terça-feira,Colisão transversal,1006
+2018,terça-feira,Colisão traseira,1491
+2018,terça-feira,Danos eventuais,38
+2018,terça-feira,Derramamento de carga,27
+2018,terça-feira,Engavetamento,137
+2018,terça-feira,Incêndio,159
+2018,terça-feira,Queda de ocupante de veículo,316
+2018,terça-feira,Saída de leito carroçável,1134
+2018,terça-feira,Tombamento,750
